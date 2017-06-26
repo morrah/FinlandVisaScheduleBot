@@ -1,3 +1,5 @@
+# С апреля 2017 скрипт проверки не работает, т.к. был изменён принцип записи
+
 # FinlandVisaScheduleBot
 Consulate of Finland status checker + telegram bot-announcer
 
